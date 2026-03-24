@@ -1,0 +1,63 @@
+2026-03-24 17:52:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-03-24 17:52:32 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-03-24 17:52:32 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-03-24 17:52:32 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-03-24 17:53:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-03-24 17:53:10 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-03-24 17:53:10 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-03-24 17:53:10 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-03-24 17:54:55 [main] INFO  api.test.UserTests - --------Creating logger----------------
+2026-03-24 17:54:57 [main] INFO  api.test.UserTests - -----User created Successfully--------
+2026-03-24 17:54:58 [main] INFO  api.test.UserTests - --------Reading user info -------------
+2026-03-24 17:54:58 [main] INFO  api.test.UserTests - -------Updating user data-----------
+2026-03-24 17:55:00 [main] INFO  api.test.UserTests - ------Deleting user data -----------------
+2026-03-24 17:55:01 [main] INFO  api.test.UserTests - ------Deleted user data -----------------
+2026-03-24 17:55:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-03-24 17:55:19 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-03-24 17:55:19 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-03-24 17:55:19 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-03-24 17:58:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-03-24 17:58:13 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-03-24 17:58:13 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-03-24 17:58:13 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-03-24 18:00:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-03-24 18:00:56 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-03-24 18:00:59 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-03-24 18:01:00 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-03-24 18:01:00 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-03-24 18:01:01 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-03-24 18:01:03 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-03-24 18:05:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-03-24 18:05:05 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-03-24 18:05:10 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-03-24 18:05:11 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-03-24 18:05:11 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-03-24 18:05:14 [main] INFO  api.test.UserTests2 - ------Updated user data -----------------
+2026-03-24 18:05:14 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-03-24 18:05:16 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-03-24 18:21:15 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-03-24 18:21:20 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-03-24 18:21:22 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-03-24 18:21:22 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-03-24 18:21:25 [main] INFO  api.test.UserTests2 - ------Updated user data -----------------
+2026-03-24 18:21:25 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-03-24 18:21:26 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-03-24 18:34:51 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-03-24 18:34:56 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-03-24 18:34:57 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-03-24 18:34:57 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-03-24 18:35:00 [main] INFO  api.test.UserTests2 - ------Updated user data -----------------
+2026-03-24 18:35:00 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-03-24 18:35:01 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
