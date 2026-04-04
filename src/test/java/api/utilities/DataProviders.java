@@ -37,5 +37,22 @@ public class DataProviders {
 	    return apidata;
 	}
 
+	@DataProvider(name = "petdata")
+	public Object[][] getSheetPetData() throws Exception {
+	    String path = System.getProperty("user.dir") + "//TestData//PetData.xlsx";
+	    XLUtility xl = new XLUtility(path);
+
+	    int rowCount = xl.getRowCount("Sheet1");
+	    int colCount = xl.getCellCount("Sheet1", 1); 
+
+	    Object[][] data = new Object[rowCount][colCount];
+
+	    for (int i = 1; i <= rowCount; i++) {
+	        for (int j = 0; j < colCount; j++) {
+	            data[i - 1][j] = xl.getCellData("Sheet1", i, j); // must return String
+	        }
+	    }
+	    return data;
+	}
 	}
 	

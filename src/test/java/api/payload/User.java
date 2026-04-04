@@ -15,17 +15,17 @@ public class User {
 	public void setUsername(String username) {
 		this.username = username;
 	}
-	public String getFirstname() {
-		return firstname;
+	public String getFirstName() {
+		return firstName;
 	}
-	public void setFirstname(String firstname) {
-		this.firstname = firstname;
+	public void setFirstName(String firstname) {
+		this.firstName = firstname;
 	}
-	public String getLastname() {
-		return lastname;
+	public String getLastName() {
+		return lastName;
 	}
-	public void setLastname(String lastname) {
-		this.lastname = lastname;
+	public void setLastName(String lastname) {
+		this.lastName = lastname;
 	}
 	public String getEmail() {
 		return email;
@@ -52,8 +52,8 @@ public class User {
 		this.userStatus = userStatus;
 	}
 	String username;
-	String firstname;
-	String lastname;
+	String firstName;
+	String lastName;
 	String email;
 	String password;
 	String phone;

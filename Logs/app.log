@@ -1,7 +1,288 @@
-2026-03-25 13:18:00 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
-2026-03-25 13:18:05 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
-2026-03-25 13:18:06 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
-2026-03-25 13:18:06 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
-2026-03-25 13:18:09 [main] INFO  api.test.UserTests2 - ------Updated user data -----------------
-2026-03-25 13:18:09 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
-2026-03-25 13:18:10 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\AppData\Local\Temp\testng-eclipse--1578652275\testng-customsuite.xml
+
+2026-04-04 19:52:03 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-04-04 19:52:04 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 19:52:07 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 19:52:07 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 19:52:08 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 19:52:08 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 19:52:08 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 19:52:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1c5d376c: 38 ms
+2026-04-04 19:52:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6b92a0d1: 7 ms
+2026-04-04 19:52:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1dce481b: 5 ms
+2026-04-04 19:52:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7efa366: 3 ms
+2026-04-04 19:52:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@237aba92: 4 ms
+2026-04-04 19:52:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@65b19e5c: 0 ms
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\AppData\Local\Temp\testng-eclipse-1626013783\testng-customsuite.xml
+
+2026-04-04 19:53:34 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-04 19:53:34 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 19:53:37 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 19:53:37 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 19:53:40 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 19:53:40 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 19:53:40 [main] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 19:53:40 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 19:53:42 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6f4029e9: 29 ms
+2026-04-04 19:53:42 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@446f3a53: 8 ms
+2026-04-04 19:53:42 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5feff876: 5 ms
+2026-04-04 19:53:42 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ccefe1b: 3 ms
+2026-04-04 19:53:42 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1dce481b: 4 ms
+2026-04-04 19:53:42 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@22cb8e5f: 0 ms
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\AppData\Local\Temp\testng-eclipse--1168819196\testng-customsuite.xml
+
+2026-04-04 19:58:13 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-04 19:58:13 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 19:58:17 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 19:58:17 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 19:58:18 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 19:58:18 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 19:58:21 [main] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 19:58:21 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 19:58:22 [main] INFO  api.test.PetTest2 - ------Deleted Pet data successfully--------
+2026-04-04 19:58:22 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5e9f1a4c: 34 ms
+2026-04-04 19:58:22 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@37a1beb3: 0 ms
+2026-04-04 19:58:22 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4219a4cc: 4 ms
+2026-04-04 19:58:22 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@49338f3: 6 ms
+2026-04-04 19:58:22 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@438a2d3: 3 ms
+2026-04-04 19:58:22 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6fe9c048: 0 ms
+2026-04-04 20:01:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 20:01:16 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 20:01:28 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 20:01:28 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 20:01:28 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 20:01:28 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 20:01:28 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 20:01:28 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 20:13:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 20:13:24 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 20:13:28 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 20:13:28 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 20:13:30 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 20:13:30 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 20:13:32 [main] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 20:13:32 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 20:13:33 [main] INFO  api.test.PetTest2 - ------Deleted Pet data successfully--------
+2026-04-04 20:13:34 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 20:13:35 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-04-04 20:13:37 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-04-04 20:13:37 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 20:13:40 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 20:13:41 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-04-04 20:18:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 20:18:26 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 20:18:29 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 20:18:29 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 20:18:31 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 20:18:31 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 20:18:33 [main] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 20:18:33 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 20:18:34 [main] INFO  api.test.PetTest2 - ------Deleted Pet data successfully--------
+2026-04-04 20:18:34 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 20:18:36 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-04-04 20:18:37 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-04-04 20:18:37 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 20:18:40 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 20:18:42 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-04-04 20:26:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 20:26:00 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 20:26:03 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 20:26:03 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 20:26:05 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 20:26:05 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 20:26:07 [main] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 20:26:07 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 20:26:08 [main] INFO  api.test.PetTest2 - ------Deleted Pet data successfully--------
+2026-04-04 20:26:09 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 20:26:11 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-04-04 20:26:12 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-04-04 20:26:12 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 20:26:16 [main] INFO  api.test.UserTests2 - ------Updated user data succcessfully -----------------
+2026-04-04 20:26:16 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 20:26:17 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-04-04 20:29:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 20:29:57 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 20:30:09 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 20:30:09 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 20:30:09 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 20:30:10 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 20:30:10 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 20:30:10 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 20:30:56 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-04-04 20:30:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 20:30:57 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 20:31:00 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 20:31:00 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 20:31:02 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 20:31:02 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 20:31:03 [main] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 20:31:03 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 20:31:05 [main] INFO  api.test.PetTest2 - ------Deleted Pet data successfully--------
+2026-04-04 20:31:06 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 20:31:07 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-04-04 20:31:09 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-04-04 20:31:09 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 20:31:12 [main] INFO  api.test.UserTests2 - ------Updated user data succcessfully -----------------
+2026-04-04 20:31:12 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 20:31:13 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-04-04 20:31:49 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-04-04 20:31:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 20:31:49 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 20:31:52 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 20:31:52 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 20:31:54 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 20:31:54 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 20:31:55 [main] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 20:31:55 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 20:31:57 [main] INFO  api.test.PetTest2 - ------Deleted Pet data successfully--------
+2026-04-04 20:31:57 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 20:31:59 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-04-04 20:32:00 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-04-04 20:32:00 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 20:32:03 [main] INFO  api.test.UserTests2 - ------Updated user data succcessfully -----------------
+2026-04-04 20:32:03 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 20:32:05 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-04-04 20:32:42 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2026-04-04 20:32:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 20:32:43 [TestNG-test-Pet Tests-1] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 20:32:43 [TestNG-test-Pet Tests-4] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 20:32:43 [TestNG-test-Pet Tests-2] INFO  api.test.PetTest2 - Create get data
+2026-04-04 20:32:43 [TestNG-test-Pet Tests-3] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 20:32:48 [TestNG-test-Pet Tests-4] INFO  api.test.PetTest2 - ------Deleted Pet data successfully--------
+2026-04-04 20:32:48 [TestNG-test-Pet Tests-1] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 20:32:48 [TestNG-test-Pet Tests-3] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 20:32:48 [TestNG-test-Pet Tests-2] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 20:32:49 [TestNG-test-User Tests-3] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 20:32:49 [TestNG-test-User Tests-1] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 20:32:49 [TestNG-test-User Tests-4] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 20:32:50 [TestNG-test-User Tests-4] INFO  api.test.UserTests2 - ------Deleted user data -----------------
+2026-04-04 20:32:50 [TestNG-test-User Tests-1] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-04-04 20:32:52 [TestNG-test-User Tests-3] INFO  api.test.UserTests2 - ------Updated user data succcessfully -----------------
+2026-04-04 22:14:53 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-04-04 22:14:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rupa\eclipse-workspace\PetStore_API_automation\testng.xml
+
+2026-04-04 22:14:53 [main] INFO  api.test.PetTest2 - Create Pet data
+2026-04-04 22:14:57 [main] INFO  api.test.PetTest2 - -----Pet data created Successfully--------
+2026-04-04 22:14:57 [main] INFO  api.test.PetTest2 - Create get data
+2026-04-04 22:15:00 [main] INFO  api.test.PetTest2 - --------Fetched Pet info -------------
+2026-04-04 22:15:00 [main] INFO  api.test.PetTest2 - Update Pet data*****
+2026-04-04 22:15:02 [main] INFO  api.test.PetTest2 - ------Updated Pet data successfully--------
+2026-04-04 22:15:02 [main] INFO  api.test.PetTest2 - Delete Pet data*********
+2026-04-04 22:15:04 [main] INFO  api.test.PetTest2 - ------Deleted Pet data successfully--------
+2026-04-04 22:15:04 [main] INFO  api.test.UserTests2 - --------Creating logger----------------
+2026-04-04 22:15:05 [main] INFO  api.test.UserTests2 - -----User created Successfully--------
+2026-04-04 22:15:07 [main] INFO  api.test.UserTests2 - --------Reading user info -------------
+2026-04-04 22:15:07 [main] INFO  api.test.UserTests2 - -------Updating user data-----------
+2026-04-04 22:15:10 [main] INFO  api.test.UserTests2 - ------Updated user data succcessfully -----------------
+2026-04-04 22:15:10 [main] INFO  api.test.UserTests2 - ------Deleting user data -----------------
+2026-04-04 22:15:11 [main] INFO  api.test.UserTests2 - ------Deleted user data -----------------
